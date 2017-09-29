@@ -1,0 +1,23 @@
+{
+  "name": "snappy",
+  "version": "1.0.0",
+  "description": "Simple web development library",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "simple",
+    "web",
+    "library"
+  ],
+  "author": "void",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  }
+}
