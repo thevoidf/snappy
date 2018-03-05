@@ -19,5 +19,8 @@
   "license": "ISC",
   "devDependencies": {
     "mocha": "^3.5.3"
+  },
+  "dependencies": {
+    "merge-descriptors": "^1.0.1"
   }
 }
